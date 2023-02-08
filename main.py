@@ -6,9 +6,9 @@ def main():
     sub2 = str[7:18]
 
     
-    print (sub1)
     print (sub2)
-    print (sub1 + " " + sub2)
+    print (sub1)
+    print (sub2 + " " + sub1)
 
     ##################################################
     pass
